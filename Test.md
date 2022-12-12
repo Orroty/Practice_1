@@ -4,6 +4,10 @@
 
 ## Заголовок 2
 
+## Picture
+
+![Picture for practiccs](Practice.PNG)
+
 ### Заголовок 3
 
 Список
