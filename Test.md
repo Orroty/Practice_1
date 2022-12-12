@@ -11,6 +11,10 @@
 
 ## Picture 2
 
+![Picture for practice 2](Practice 2.PNG)
+
+## Picture 1
+
 ![Picture for practice 1](Practice 1.PNG)
 
 ### Заголовок 3
