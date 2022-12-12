@@ -4,9 +4,9 @@
 
 ## Заголовок 2
 
-## Picture
+## Picture 2
 
-![Picture for practiccs](Practice.PNG)
+![Picture for practice 1](Practice 1.PNG)
 
 ### Заголовок 3
 
