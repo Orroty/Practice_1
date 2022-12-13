@@ -238,7 +238,11 @@
 ![Get List Branch Git](file://11_git_branch.PNG)
 2. При использовании с именем (***[git branch name_of_new_branch](##11.-Создание-ветвей)***) создает ветвь с указанным наименованием. В случае успеха никаких сообщений не выводится. Обязательно после этого переходить в нужную ветвь командой ***[git checkout name_of_new_branch ](##8.-Путешествие-по-версиям)***
 3. Применение модификатора ***-d*** с наименованием ветви удаляет данную ветвь. Но если ветвь имеет файлы или модификации, отсутствующие в связанной ветви, то будет выдано предупреждение. Пример:
- ![Get List Branch Delete Git](file://11_git_branch_delete_error.PNG)
+
+ ![Get List Branch Delete Git](file://11_git_branch_delete.PNG)
+ 
+ ![Get List Branch Error Delete Git](file://11_git_branch_delete_error.PNG)
+ 
 
 ## 12. Слияние ветвей
 
