@@ -46,6 +46,7 @@
 
 <span style="color: red">Примечание </span>
   1. <span style="color: red">В первой строке указывается название активной ветви. В данном случае ветвь называется _reduct_2_status_ </span>
+  
     ![Get Status Comment](file://2_git_status_comment_branch_name.PNG)
 
 
@@ -99,6 +100,7 @@
 Для начала посмотрим список файлов после ***[git add](##4.-Добавление-в-репозиторий)*** и статус репозитория.
 
 ![Get Files After Add Git](file://5_git_files_after_add.PNG)
+
 ![Get Status After Add Git](file://5_git_status_after_added.PNG)
 
 Как видим некоторые файлы не внесены в список подтверждения, а именно был изменен файл *"Home Work.md"* и не добавлены 2 изображения. 
